@@ -1,4 +1,4 @@
-# proyectoia20231
+# ProyectoIA20231
 # miembros del grupo
 
 Tomas Urango Ruiz
